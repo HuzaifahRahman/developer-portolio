@@ -25,7 +25,7 @@
     background-position: bottom right, left;
 }
 
-/* header and navigation styles */
+/* header and navigation styles */ 
 nav {
     display: flex;
     justify-content: space-between;
@@ -85,8 +85,8 @@ section{
     margin-top: 130px;
 }
 /* about section styles */
-.about{
-
+.about{ 
+     
 background: #FFF8F3;
 border-radius: 10px;
 padding: 130px 150px;
